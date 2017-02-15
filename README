@@ -1,0 +1,7 @@
+This repository contain useful scripts and their necessary file to download and convert useful OSM data for CAI in a GIS format
+
+carico_conversione_sentieri_semplice.sh
+========================================
+
+Script bach che scarica i sentieri, li converte in geojson e infine in shapefile.
+Bisogna correggere la variable `bounds` in modo tale che venga effettuata sulla propria zona

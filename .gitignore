@@ -1,0 +1,8 @@
+*.osm
+*.shp
+*.shx
+*.prj
+*.dbf
+*.json
+*.geojson
+*~
